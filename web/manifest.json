@@ -1,6 +1,6 @@
 {
-    "name": "health_chatbot",
-    "short_name": "health_chatbot",
+    "name": "app_health_chatbot",
+    "short_name": "app_health_chatbot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
